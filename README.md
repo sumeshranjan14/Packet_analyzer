@@ -1,8 +1,8 @@
 # DPI Engine - Deep Packet Inspection System
 
 
-This document explains **everything** about this project - from basic networking concepts to the complete code architecture. After reading this, you should understand exactly how packets flow through the system without needing to read the code.
-
+This document explains **everything** about this project - from basic networking concepts to the complete code architecture. After reading this, you should understand exactly how packets flow through the system without needing to read the code. Whic is made by ** Sumesh Ranjan**
+ 
 ---
 
 ## Table of Contents
@@ -1046,3 +1046,4 @@ The key insight is that even HTTPS traffic leaks the destination domain in the T
 
 ---
 
+Made with Blood and Persipiration by Sumesh Ranjan
